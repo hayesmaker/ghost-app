@@ -1,0 +1,3 @@
+[submodule "ghost-frontend"]
+	path = ghost-frontend
+	url = git@github.com:hayesmaker/ghost-frontend.git
