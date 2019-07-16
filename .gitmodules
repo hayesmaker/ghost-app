@@ -1,3 +1,6 @@
 [submodule "ghost-frontend"]
 	path = ghost-frontend
 	url = git@github.com:hayesmaker/ghost-frontend.git
+[submodule "ghost-node"]
+	path = ghost-node
+	url = git@github.com:hayesmaker/ghost-node.git
