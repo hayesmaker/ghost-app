@@ -1,18 +1,14 @@
 
-# ghost-frontend
+# ghost-app
 
-an ionic angular app designed to display an input text field, which can be sent
-and stored via the ghost node server and mongodb
+an app consisting of ionic angular frontend and node server backend which connects to mongo
 
-###requirements: 
+### requirements: 
 
-a ghost node running locally at localhost:8081 (run ghost-node server for this)
+checkout this repo and make sure the git submodules have checked out correctly
 
 ### Install
 
-`npm i`
-
-### Start server
-
-`npm start`
+goto ghost-node directory and run npm i && npm start
+goto ghost-frontend directory and run npm i && npm start
 
