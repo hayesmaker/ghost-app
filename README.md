@@ -9,6 +9,8 @@ checkout this repo and make sure the git submodules have checked out correctly
 
 ### Install
 
-goto ghost-node directory and run npm i && npm start
-goto ghost-frontend directory and run npm i && npm start
+goto ghost-node directory and run 
+`npm i && npm start`
+goto ghost-frontend directory and run 
+`npm i && npm start`
 
